@@ -1,0 +1,9 @@
+venv
+data
+*.db
+*.db-journal
+*.rdb
+__pycache__
+*.pyc
+*.pyo
+enwiki-latest-pages-articles.xml.bz2
