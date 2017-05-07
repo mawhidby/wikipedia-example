@@ -1,6 +1,6 @@
 # braid wikipedia example
 
-This example webapp uses [braid](https://github.com/braidery/braid) to explore the links in wikipedia articles, and recommend new content to browse based off of the topic.
+This example webapp uses [braid](https://github.com/braidery/braid) to explore the links in wikipedia articles.
 
 ## Getting started
 
